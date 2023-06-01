@@ -2,6 +2,10 @@ body {
   font-family: sans-serif;
 }
 
+ul {
+  background-color: greenyellow;
+}
+
 li {
   margin: 10px;
 }
